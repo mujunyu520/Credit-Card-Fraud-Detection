@@ -12,7 +12,7 @@ trying to follow up the instruction in kaggle
 Obtain data from[ KaggleLinks](https://www.kaggle.com/mlg-ulb/creditcardfraud) to an external site.. Remove all duplicates. For the attribute "class", change 0 to -1 so that -1 represents normal and +1 represents fraud. 
 After this, the resulting dataset should contain 473 fraud and 283253 normal transactions. 
 
-first of all, we need upload the creditcard.csv to kaggle
+first of all, we need upload the creditcard.csv to kaggle 
 
 ![image](https://github.com/mujunyu520/Credit-Card-Fraud-Detection/assets/60667298/d23708fc-0727-455a-9239-474a9882fdd7)
 
